@@ -1,0 +1,2 @@
+# Linux
+Amateur of Linux
